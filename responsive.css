@@ -1,0 +1,466 @@
+@media(max-width: 599px){
+  .header {
+    background-color: black;
+  }
+
+  .title{
+    font-size: 40px;
+    color: black;
+  }
+
+  .link-wrapper img{
+    width: 100%;
+    height: auto;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .waiting-wrapper{
+    margin-top: 127px;
+    margin-left: 0px;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    padding-left: 0px;
+  }
+
+  .comingsoon {
+    padding-left: 60px;
+    font-size: 30px;
+  }
+
+  .comingsoon-wrapper {
+    margin-top: 127px;
+  }
+
+  .content-wrapper {
+    margin-left: 0px;
+    margin-top: 127px;
+    height: auto;
+    width: 100%;
+  }
+
+  .center a {
+    color: black;
+  }
+
+  .center a{
+    position: absolute;
+    left: 0px;
+  }
+
+  .tag-1 {
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+
+  .tag-1 a{
+    font-size: 43px;
+    font-weight: bold;
+    font-family: 'Archivo Narrow', sans-serif;
+    line-height: 60px;
+  }
+
+  .tag-2 {
+    width: 300px;
+    height: 60px;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+  }
+
+  .tag-2 a {
+    font-size: 58px;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+    line-height: 60px;
+    margin: 10px 0;
+  }
+
+  .tag-3 {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 120px;
+    left: 0px;
+  }
+
+  .tag-3 a {
+    font-size: 85px;
+    font-weight: 600;
+   font-family: 'Fjalla One', sans-serif;
+    line-height: 100px;
+    margin: 15px 0;
+  }
+
+  .tag-4 {
+    width: 180px;
+    height: 80px;
+    position:absolute;
+    top: 220px;
+    left: 0px;
+    display: inline-block;
+  }
+
+  .tag-4 a {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: 'Amiri', serif;
+    line-height: 80px;
+    margin-top: 10px;
+  }
+
+  .tag-5 {
+    width: 300px;
+    height: 80px;
+    position: absolute;
+    top: 300px;
+    left: 0px;
+  }
+  .tag-5 a {
+    font-size: 52px;
+    font-weight: 500;
+    font-family: 'Shadows Into Light', cursive;
+    line-height: 80px;
+  }
+
+  .tag-6 {
+    width: 200px;
+    height: 80px;
+    position: absolute;
+    top: 380px;
+    left: 0px;
+  }
+
+  .tag-6 a {
+    font-size: 48px;
+    font-weight: ;
+    font-family: 'Poiret One', cursive;
+    line-height: 80px;
+  }
+
+  .tag-7 {
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    top: 460px;
+    left: 0px;
+  }
+
+  .tag-7 a {
+    font-size: 40px;
+    font-weight: ;
+    font-family: 'Amiri', serif;
+    line-height: 40px;
+  }
+
+  .tag-8 {
+    width: 120px;
+    height: 80px;
+    position: absolute;
+    top: 500px;
+    left: 0px;
+  }
+
+  .tag-8 a {
+    font-size: 40px;
+    font-weight: ;
+    font-family: 'Monoton', cursive;
+    line-height: 80px;
+  }
+
+  .tag-9 {
+    width: 400px;
+    height: 140px;
+    position: absolute;
+    top: 580px;
+    left: 0px;
+  }
+
+  .tag-9 a {
+    font-size: 135px;
+    font-weight: bold;
+    font-family: 'Archivo Narrow', sans-serif;
+    line-height: 140px;
+  }
+
+  .tag-10 {
+    width: 120px;
+    height: 60px;
+    position: absolute;
+    top: 720px;
+    left: 0px;
+  }
+
+  .tag-10 a {
+    font-size: 26px;
+    font-weight: ;
+    font-family: 'Orbitron', sans-serif;
+    line-height: 60px;
+  }
+
+  .tag-11 {
+    width: 180px;
+    height: 60px;
+    position: absolute;
+    top: 780px;
+    left: 0px;
+  }
+
+  .tag-11 a {
+    font-size: 55px;
+    font-weight: ;
+    font-family: 'Squada One', cursive;
+    line-height: 60px;
+  }
+
+  .tag-12 {
+    width: 160px;
+    height: 100px;
+    position: absolute;
+    top: 840px;
+    left: 0px;
+  }
+
+  .tag-12 a {
+    font-size: 50px;
+    font-weight: ;
+    font-family: 'Nixie One', cursive;
+    line-height: 100px;
+  }
+
+  .tag-13 {
+    width: 180px;
+    height: 60px;
+    position: absolute;
+    top: 940px;
+    left: 0px;
+  }
+
+  .tag-13 a {
+    font-size: 30px;
+    font-weight: ;
+    font-family: 'Limelight', cursive;
+    line-height: 60px;
+  }
+
+  .tag-14 {
+    width: 100px;
+    height: 60px;
+    position: absolute;
+    top: 1000px;
+    left: 0px;
+  }
+
+  .tag-14 a {
+    font-size: 50px;
+    font-weight: ;
+    font-family: 'Calligraffitti', cursive;
+    line-height: 60px;
+  }
+
+  .tag-15 {
+    width: 120px;
+    height: 60px;
+    position: absolute;
+    top: 1060px;
+    left: 0px;
+  }
+
+  .tag-15 a {
+    font-size: 30px;
+    font-weight: ;
+    font-family: 'Racing Sans One', cursive;
+    line-height: 60px;
+  }
+
+  .tag-16 {
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    top: 1120px;
+    left: 0px;
+  }
+
+  .tag-16 a {
+    font-size: 30px;
+    font-weight: ;
+    font-family: 'Knewave', cursive;
+    line-height: 40px;
+  }
+
+  .tag-17 {
+    width: 140px;
+    height: 60px;
+    position: absolute;
+    top: 1160px;
+    left: 0px;
+  }
+
+  .tag-17 a {
+    font-size: 40px;
+    font-weight: ;
+    font-family: 'Londrina Outline', cursive;
+    line-height: 60px;
+  }
+
+  .tag-18 {
+    width: 240px;
+    height: 40px;
+    position: absolute;
+    top: 1220px;
+    left: 0px;
+  }
+
+  .tag-18 a {
+    font-size: 20px;
+    font-weight: ;
+    font-family: 'Holtwood One SC', serif;
+    line-height: 40px;
+  }
+
+  .tag-19{
+    width: 160px;
+    height: 80px;
+    position: absolute;
+    top: 1260px;
+    left: 0px;
+  }
+
+  .tag-19 a {
+    font-size: 45px;
+    font-weight: ;
+    font-family: 'Rubik Mono One', sans-serif;
+    line-height: 80px;
+  }
+
+  .tag-20 {
+    width: 280px;
+    height: 120px;
+    position: absolute;
+    top: 1340px;
+    left: 0px;
+  }
+
+  .tag-20 a {
+    font-size: 74px;
+    font-weight: ;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    line-height: 120px;
+  }
+
+  .tag-21 {
+    width: 120px;
+    height: 40px;
+    position: absolute;
+    top: 1460px;
+    left: 0px;
+  }
+
+  .tag-21 a {
+    font-size: 35px;
+    font-weight: 100;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    line-height: 40px;
+  }
+
+  .tag-22 {
+    width: 120px;
+    height: 40px;
+    position: absolute;
+    top: 1500px;
+    left: 0px;
+  }
+
+  .tag-22 a {
+    font-size: 35px;
+    font-weight: 400;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    line-height: 40px;
+  }
+
+  .tag-23 {
+    width: 120px;
+    height: 40px;
+    position: absolute;
+    top: 1540px;
+    left: 0px;
+  }
+
+  .tag-23 a {
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    line-height: 40px;
+  }
+
+  .tag-24 {
+    width: 140px;
+    height: 60px;
+    position: absolute;
+    top: 1580px;
+    left: 0px;
+  }
+
+  .tag-24 a {
+    font-size: 40px;
+    font-weight: ;
+    font-family: 'Spectral SC', serif;
+    line-height: 60px;
+  }
+
+  .tag-25 {
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 1620px;
+    left: 0px;
+    margin: 15px 0;
+  }
+
+  .tag-25 a {
+    font-size: 60px;
+    font-weight: ;
+    font-family: 'Condiment', cursive;
+    line-height: 70px;
+    margin: 10px 0;
+  }
+
+  .tag-26 {
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    top: 1680px;
+    left: 0px;
+  }
+
+  .tag-26 a {
+    font-size: 80px;
+    font-weight: ;
+    font-family: 'Shrikhand', cursive;
+    line-height: 60px;
+    margin: 40px 0;
+  }
+}
+
+@media(max-width: 960px) and (min-width: 600px) {
+  .menu {
+    display: none;
+  }
+
+  .content-wrapper {
+    margin-left: 30px;
+    margin-top: 127px;
+    height: auto;
+    width: 100%;
+  }
+
+  .comingsoon {
+    margin-left: 60px;
+  }
+}
